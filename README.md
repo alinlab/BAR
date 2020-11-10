@@ -88,12 +88,10 @@ All images from searched from Google or Flickr, we disclose the license (CC), qu
 ## Citation
 If you find this useful in your research, please consider citing:
 ```
-@misc{nam2020learning,
-      title={Learning from Failure: Training Debiased Classifier from Biased Classifier}, 
-      author={Junhyun Nam and Hyuntak Cha and Sungsoo Ahn and Jaeho Lee and Jinwoo Shin},
-      year={2020},
-      eprint={2007.02561},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{nam2020learning,
+  title={Learning from Failure: Training Debiased Classifier from Biased Classifier},
+  author={Junhyun Nam and Hyuntak Cha and Sungsoo Ahn and Jaeho Lee and Jinwoo Shin},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2020}
 }
 ```
